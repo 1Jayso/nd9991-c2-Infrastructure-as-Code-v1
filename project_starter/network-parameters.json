@@ -1,0 +1,26 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "udacityProject"
+    },
+    {
+        "ParameterKey": "VpcCidr",
+        "ParameterValue": "10.1.0.0/16"
+    },
+    {
+        "ParameterKey": "PubSub1Cidr",
+        "ParameterValue": "10.1.1.0/24"
+    },
+    {
+        "ParameterKey": "PubSub2Cidr",
+        "ParameterValue": "10.1.2.0/24"
+    },
+    {
+        "ParameterKey": "PrivSub1Cidr",
+        "ParameterValue": "10.1.3.0/24"
+    },
+    {
+        "ParameterKey": "PrivSub2Cidr",
+        "ParameterValue": "10.1.4.0/24"
+    }
+]
